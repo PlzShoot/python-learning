@@ -6,4 +6,3 @@ plt.xlabel("X")
 plt.ylabel("Y")
 
 plt.show()
-print("Plot displayed successfully.")
